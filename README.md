@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gettyimages-1952157610-2048x2048.jpg" alt="Banner cavernícola" width="800"/>
+  <img src="./TED talks on motivation and leadership _ Target Training GmbH.jpg" alt="Banner cavernícola" width="800"/>
 </p>
 
 <h1 align="center">EDILBERTO MADRIGAL</h1>
